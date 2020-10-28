@@ -6,16 +6,19 @@ header{
     max-width: 3840px;
     max-height: 2160px;
     width: 100%;
-    padding-bottom:200px;
+    padding-bottom:100px;
     padding-top: 25px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background-attachment: fixed;
 }
 header h1{
-    font-size: 100px;
+    text-align: 50px left;
+    font-size: 50px;
     max-width: 3840px;
     max-height: 2160px;
     width: 100%;
+    padding-top: 500px;
     
 }
