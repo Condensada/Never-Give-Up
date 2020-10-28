@@ -1,5 +1,8 @@
 body{
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
 }
 header{
     background-image: url(../img/2743.jpg);
@@ -14,12 +17,25 @@ header{
     background-attachment: fixed;
 }
 header h1{
-    text-align: 50px left;
-    font-size: 50px;
-    max-width: 3840px;
-    max-height: 2160px;
+    text-align: 50px;
+    font-size: 70px;
+    max-width: 280.4x;
+    max-height: 1288.4px;
     width: 100%;
-    padding-top: 40px;
+    padding-top: 38px;
     padding-left: 10px;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
     
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+h2, h3{
+    font-size: 70px;
+    margin: 10 auto;
+    background-image: url(../img/clouds.jpg);
 }
