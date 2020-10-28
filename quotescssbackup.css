@@ -39,22 +39,3 @@ h2, h3{
     margin: 10 auto;
     background-image: url(../img/clouds.jpg);
 }
-ul{
-
-    float: right;
-    list-style-type: none;
-}
-ul li{
-    display: inline-block;
-    margin-right: 5px;
-}
-ul li a{
-    text-decoration: none;
-    color: white;
-    padding: 5px 20px;
-    border: 2px solid #ffff;
-}
-ul li a:hover{
-    background-color: violet;
-    color: black;
-}
