@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+header{
+    background-image: url(../img/2743.jpg);
+    max-width: 3840px;
+    max-height: 2160px;
+    width: 100%;
+    padding-bottom:200px;
+    padding-top: 25px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+header h1{
+    font-size: 100px;
+    max-width: 3840px;
+    max-height: 2160px;
+    width: 100%;
+    
+}
