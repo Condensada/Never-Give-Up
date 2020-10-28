@@ -1,0 +1,37 @@
+body{
+    background-color: aquamarine;
+
+}
+h1{
+    font-size: 30px; 
+    color: teal;
+}
+
+h2{
+    font-size: 30px;
+    color: hotpink;
+}
+
+.big{
+    font-size: 60px;
+}
+.lowercase{
+    text-transform: lowercase;
+    color: turquoise;
+    font-size: 40px;
+}
+.big.lowercase{
+    text-transform: lowercase;
+    color:yellow;
+    font-size: 70px;
+
+}
+span{
+    text-shadow: violet;
+    font-style: normal;
+    font-size: 100px;
+}
+h2 span{
+    color: salmon;
+    font-size: 70px;
+}
